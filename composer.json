@@ -1,0 +1,27 @@
+{
+    "name": "kolesa/elasticfantastic",
+    "type": "library",
+    "version": "0.8",
+    "description": "ElasticSearch Builder",
+    "keywords": ["elasticsearch","builder","php"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Market Team",
+            "email": "ok@market.kz"
+        }
+    ],
+    "require": {
+        "php": ">7.0",
+        "ext-json": "*",
+        "ruflin/elastica": "6.*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "~3.3|~4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "ES\\": "src"
+        }
+    }
+}
