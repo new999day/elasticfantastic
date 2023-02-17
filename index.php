@@ -10,7 +10,7 @@ use ES\ES;
  */
 const CONFIG = [
     'hosts'   => [
-        'market-api-lb1.alahd.kz.test.bash.kz:9206',
+        'host:9206',
     ],
     'types'   => [
         'advert'         => 'advert',
