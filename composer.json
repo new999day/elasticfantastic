@@ -1,5 +1,5 @@
 {
-    "name": "kolesa/elasticfantastic",
+    "name": "new999day/elasticfantastic",
     "type": "library",
     "version": "0.8",
     "description": "ElasticSearch Builder",
@@ -7,8 +7,8 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Market Team",
-            "email": "ok@market.kz"
+            "name": "Kudrin Dmitry",
+            "email": "new999day@gmail.com"
         }
     ],
     "require": {
